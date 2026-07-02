@@ -95,11 +95,11 @@
       '</div>' +
       '<div class="legend-item">' +
         '<span class="legend-swatch" style="background:#f1c40f;"></span>' +
-        '3 – 5' +
+        '3 &ndash; &lt;5' +
       '</div>' +
       '<div class="legend-item">' +
         '<span class="legend-swatch" style="background:#e74c3c;"></span>' +
-        '&gt; 5' +
+        '&ge; 5' +
       '</div>';
     return div;
   };
