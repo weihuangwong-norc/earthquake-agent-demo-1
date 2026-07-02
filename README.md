@@ -1,2 +1,3 @@
 # earthquake-agent-demo-1
-A web app that displays a Leaflet map showing recent earthquakes
+
+A static site that displays a Leaflet map of recent earthquakes from the USGS live feed. Deployable via GitHub Pages (Settings → Pages → deploy from branch → main → root).
